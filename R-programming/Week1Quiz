@@ -1,6 +1,6 @@
 # Jibin Liu
 # Data Science - R programming in Nov. 2014
-# Week 1 Quiz: Questions 11 - 20 with Air Quality datasets
+# Questions 11 - 20 with Air Quality datasets
 
 # what are the column names of the dataset?
 airQuality <- read.csv("hw1_data.csv")
