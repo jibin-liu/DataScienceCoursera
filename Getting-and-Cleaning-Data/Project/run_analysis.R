@@ -1,5 +1,7 @@
 # Programmed by Jibin Liu
 # 2/22/2015
+# data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+# experiment website: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
 
 library(reshape2)
 #1. Merges the training and the test sets to create one data set.
